@@ -1,62 +1,22 @@
 {
     "patient_nasser": {
         "PatientData": {
-            "Patient name": "Nasser",
-            "Patient age": "20",
-            "Patient height": "178",
-            "Patient weight": "58",
-            "Patient temperature": "36.5",
-            "Patient blood suger": "100",
-            "Patient pressure": "100/70",
-            "Patient Mfg": "2025/09/10",
-            "Exp": "2025-09-18"
-        },
-        "Dr&Nu": {
-            "Nurse name": "Ahmed",
-            "Department": "Ear, Nose, and Throat",
-            "DR name": "Saud",
-            "Diagnosis": "Normal",
-            "Treatment": "Nothing"
-        }
-    },
-    "patient_ahmed": {
-        "PatientData": {
-            "Patient name": "Ahmed",
-            "Patient age": "17",
+            "Patient name": "Leo",
+            "Patient age": "25",
             "Patient height": "175",
-            "Patient weight": "63",
+            "Patient weight": "60",
             "Patient temperature": "36.5",
             "Patient blood suger": "100",
-            "Patient pressure": "120/70",
-            "Patient Mfg": "2025/09/15",
-            "Exp": "2025-09-18"
+            "Patient pressure": "120/80",
+            "Patient Mfg": "2025/09/10",
+            "Exp": "2025-09-29"
         },
         "Dr&Nu": {
-            "Nurse name": "Fahad",
+            "Nurse name": "1",
             "Department": "Ear, Nose, and Throat",
-            "DR name": "Nasser",
+            "DR name": "Jack",
             "Diagnosis": "Normal",
             "Treatment": "Nothing"
-        }
-    },
-    "patient_firas": {
-        "PatientData": {
-            "Patient name": "Firas",
-            "Patient age": "20",
-            "Patient height": "181",
-            "Patient weight": "90",
-            "Patient temperature": "36.5",
-            "Patient blood suger": "100",
-            "Patient pressure": "110/75",
-            "Patient Mfg": "2025/08/14",
-            "Exp": "2025-09-18"
-        },
-        "Dr&Nu": {
-            "Nurse name": "Mohammed",
-            "Department": "Neurology",
-            "DR name": "Dr.Saif",
-            "Diagnosis": "Surgery in head",
-            "Treatment": "--"
         }
     }
 }
